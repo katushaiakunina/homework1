@@ -1,2 +1,1 @@
-# kitty-homework
-for homework
+#  **Рассказ о себе**
